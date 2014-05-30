@@ -112,7 +112,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 WYSIWYG text editing
 --------------------
 
-What You See Is What You Get, or WYSIWYG (pronounced "wizzy-wig"), is the label we apply to tools which write HTML code for you online. They give you a Word-like experience of editing content, without having to bother with learning to format text through abstract HTML tags. There are many WYSIWYG editors out there, but Django Church uses **Redactor** LINK. It strikes a great balance between robustness and offering common tools which most users might need.
+What You See Is What You Get, or WYSIWYG (pronounced "wizzy-wig"), is the label we apply to tools which write HTML code for you online. They give you a Word-like experience of editing content, without having to bother with learning to format text through abstract HTML tags. There are many WYSIWYG editors out there, but Django Church uses `Redactor <http://imperavi.com/redactor/>`_. It strikes a great balance between robustness and offering common tools which most users might need.
 
 There are three places where you can find WYSIWYG text editors within Django; events, news and pages. The rules are the same no matter where you are editing content, so rather than duplicate this section of the guide three times, this is your single reference point.
 
