@@ -46,3 +46,7 @@ Add post
 4. **Date** defines the date at which the post is visibly published to the site. Note that this value can be in the future as well as the past, meaning it can be used to set a post to 'go live' automatically at a particular date and time.
 5. **Image** defines an optional key image for the post which is automatically included on the news pages where the story appears.
 6. **Teaser** defines an optional abstract for the story. This is used in things like feeds and news lists. As the name suggests it should be a single sentence which describes the post. It can not contain HTML tags for formatting.
+7. **Content** represents the body of the article. Please refer to the section called "WYSIWYG text editing" above for more details on how to get the most out of this field.
+8. Advanced options
+	1. **Slug** which refers to the human-readable portion of the articles URL once it's live. For example as article with the slug "newsletter", the resulting URL would be this "http://www.church.com/news/2014/05/18/newsletter/". Note that standard URL character limitations apply here.
+	2. **Published** checkbox defines whether the post is visible to the public or not. This option can be used to keep private posts which are in draft-form and not quite ready to be seen by the world at large. It can also be used to retrospectively hide posts.
