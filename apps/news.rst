@@ -21,7 +21,7 @@ Add a category
 2. There are two fields available for editing…
 3. **Title** which is the label visible to the public, so this needs to be short and descriptive of the kind of news users will find tagged with it.
 4. **Slug** which refers to the human-readable portion of the articles URL once it's live.
-    1. For example as article with the slug "newsletter", the resulting URL would be this "http://www.stmarksob.org/news/2014/05/18/newsletter/".
+    1. For example as article with the slug "newsletter", the resulting URL would be this "http://www.church.com/news/2014/05/18/newsletter/".
     2. Note that standard URL character limitations apply here.
 
 Posts
