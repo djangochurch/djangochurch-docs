@@ -5,7 +5,7 @@ Introduction
 Welcome to Django Church!
 -------------------------
 
-If you're reading this, then it's likely that you're either thinking about using Django Church for your small Church website project, or you've already made the leap! In either case, you're most welcome! This documentation represents the general user manual for managing and maintaining your site's content once it's been set up. If you're after technical documentation about setting up your own Django Church instance, you'll need to go take a look at our **developer portal** LINK. On the other hand, if you want a whistle-stop tour of Django Church's features and interface, you've come to the right place!
+If you're reading this, then it's likely that you're either thinking about using Django Church for your small Church website project, or you've already made the leap! In either case, you're most welcome! This documentation represents the general user manual for managing and maintaining your site's content once it's been set up. If you're after technical documentation about setting up your own Django Church instance, you'll need to go take a look at our `developer docs <http://djangochurch-developer.readthedocs.org>`_. On the other hand, if you want a whistle-stop tour of Django Church's features and interface, you've come to the right place!
 
 This guide starts by exploring Django Church's User Interface (UI). It then takes a look at some basic processes like logging in and changing your password, and lastly covers detailed walk-throughs of each app in turn.
 
@@ -34,7 +34,7 @@ What sets Django Church apart? There's a few USPs…
 It's open source
 ````````````````
 
-We could go into a lot of detail about what makes something "open source" - we could type for hours in fact. We've written a **paper** LINK about open source systems which covers off the core details, but in short, you can think about it like sharing a cooking recipes. Someone develops a recipe and shares it with a few friends. Those friends take the recipe, tweak it, they might improve it but when they are done they share it back amongst their friends, who in turn take, amend and re-share it. In an ideal world, open source philosophy represents a cycle of continuous free and open shared improvement.
+We could go into a lot of detail about what makes something "open source" - we could type for hours in fact. We've written a `paper <http://www.blanc.ltd.uk/downloads/open-source>'_ about open source systems which covers off the core details, but in short, you can think about it like sharing a cooking recipes. Someone develops a recipe and shares it with a few friends. Those friends take the recipe, tweak it, they might improve it but when they are done they share it back amongst their friends, who in turn take, amend and re-share it. In an ideal world, open source philosophy represents a cycle of continuous free and open shared improvement.
 
 Now, amongst the other CMS options there are others built on open source foundations, but few of them - if any - are open source in the purest sense of the word. The majority work on a Software as a Service (SaaS) basis; you rent the site from the provider. They've used open source code and built a proprietary, locked-in CMS. As soon as you top paying rent, your site goes away. We don't think that's the way the Kingdom should work.
 
