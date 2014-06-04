@@ -9,4 +9,5 @@ The following sections have been written with the aim of giving you some help an
     :maxdepth: 1
 
     structure
-    writing
+    audience
+    writing 
