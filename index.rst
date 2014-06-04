@@ -10,3 +10,4 @@ Contents:
     start/index
     apps/index
     support/index
+    content/index
