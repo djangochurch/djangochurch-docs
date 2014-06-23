@@ -51,3 +51,12 @@ Best practice
 `````````````
 
 As with other areas here, the tipping point will be somewhere between the two and different for everyone. However the predominant trend today is to lean towards a "user needs" approach, pulling in elements of overt organisation messaging where a clear direction is required.
+
+So, where does this lead us?
+----------------------------
+
+The key thing is to have a clear view on who your website is targeted at, what information you have that they might need, and some thoughts on how you might balance those needs with the message you want to communicate. The next thing to do, is start to assemble the bones of your site.
+
+
+
+
