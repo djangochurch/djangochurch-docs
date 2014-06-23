@@ -1,0 +1,4 @@
+A sample website structure
+====================
+
+
