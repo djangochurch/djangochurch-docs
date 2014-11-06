@@ -12,7 +12,7 @@ Logging in
 1. Start by visiting the home page of your website. Let's, for the sake of argument, say that your site's URL is http://www.example.org
 2. To get to the administration dashboard (admin for short) all you have to do is add /admin/ to that URL - http://www.example.org/admin/ - and hit return.
 3. You'll then see a login screen with "Username" and "Password" fields. Type these details in and click "log in."
-4. If all is well, you should now be looking at a page headed "[your church name]'s Admin"
+4. If all is well, you should now be looking at a page headed "Django Church administration"
 5. If this is the first time you've logged in, it might be a good idea to update your password with something super-memorable and equally secure. You can do this by clicking "Change password", located in the top right of the screen. See the "Changing your password" section below for more.
 
 
