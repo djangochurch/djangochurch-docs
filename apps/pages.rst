@@ -30,7 +30,7 @@ Adding a page
 -------------
 
 1. Click Home > Pages > Pages > Add page
-2. **URL** defines the portion of the page's URL that appears after your site's domain name, **/about/** for example where the full URL is http://www.church.com/about/. Note that the URL requires leading and trailing slashes: /
+2. **URL** defines the portion of the page's URL that appears after your site's domain name, **/about/** for example where the full URL is http://www.example.org/about/. Note that the URL requires leading and trailing slashes: /
 3. **Title** defines the publicly visible title which users will see on the site. Try to keep this short and to the point.
 4. Navigation gives you mechanisms to manually control where the page appears in the site.
     1. **Parent** enables you to define the page's location directly, rather than using the drag-and-drop tool found in the "Tree view" noted above. Clicking the combo box with give you a list of ALL the pages in the CMS. Moving a page is as simple as clicking the page you want to be the current page's parent.

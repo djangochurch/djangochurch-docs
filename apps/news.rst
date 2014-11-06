@@ -21,7 +21,7 @@ Add a category
 2. There are two fields available for editing…
 3. **Title** which is the label visible to the public, so this needs to be short and descriptive of the kind of news users will find tagged with it.
 4. **Slug** which refers to the human-readable portion of the articles URL once it's live.
-    1. For example as article with the slug "newsletter", the resulting URL would be this "http://www.church.com/news/2014/05/18/newsletter/".
+    1. For example as article with the slug "newsletter", the resulting URL would be this "http://www.example.org/news/2014/05/18/newsletter/".
     2. Note that standard URL character limitations apply here.
 
 Posts
@@ -48,5 +48,5 @@ Add post
 6. **Teaser** defines an optional abstract for the story. This is used in things like feeds and news lists. As the name suggests it should be a single sentence which describes the post. It can not contain HTML tags for formatting.
 7. **Content** represents the body of the article. Please refer to the section called "WYSIWYG text editing" above for more details on how to get the most out of this field.
 8. Advanced options
-	1. **Slug** which refers to the human-readable portion of the articles URL once it's live. For example as article with the slug "newsletter", the resulting URL would be this "http://www.church.com/news/2014/05/18/newsletter/". Note that standard URL character limitations apply here.
+	1. **Slug** which refers to the human-readable portion of the articles URL once it's live. For example as article with the slug "newsletter", the resulting URL would be this "http://www.example.org/news/2014/05/18/newsletter/". Note that standard URL character limitations apply here.
 	2. **Published** checkbox defines whether the post is visible to the public or not. This option can be used to keep private posts which are in draft-form and not quite ready to be seen by the world at large. It can also be used to retrospectively hide posts.

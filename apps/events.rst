@@ -49,7 +49,7 @@ Adding a special event
 1. Click Home > Events > Special events > Add special event
 2. **Title** defines the title of the event. Note that this is the publicly visible title users of the site will see
 3. **Slug** which refers to the human-readable portion of the event’s URL once it’s live.
-    1. For example an event with the slug “coffee-morning”, the resulting URL would be this “http://www.church.com/events/view/special-event/”.
+    1. For example an event with the slug “coffee-morning”, the resulting URL would be this “http://www.example.org/events/view/special-event/”.
     2. Note that standard URL character limitations apply here.
 4. **Image** is an optional field that lets you define a key image to associate with the event. This is achieved by selecting an image from the Image Assets app through the combo-box.
 5. **Description** defines the descriptive text about the event which is seen when users navigate through to the event's detail page.
