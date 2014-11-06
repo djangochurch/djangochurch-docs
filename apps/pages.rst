@@ -35,7 +35,7 @@ Adding a page
 4. Navigation gives you mechanisms to manually control where the page appears in the site.
     1. **Parent** enables you to define the page's location directly, rather than using the drag-and-drop tool found in the "Tree view" noted above. Clicking the combo box with give you a list of ALL the pages in the CMS. Moving a page is as simple as clicking the page you want to be the current page's parent.
     2. **Show in navigation** checkbox enables you to hide pages by unchecking. Note that the page is *still live*, but won't appear in public navigation. This means that users of your site can still see the page if they have it bookmarked or, for example, if you email them a link to it.
-5. **Content** defines the body content for the page. See `WYSIWYG text editing <http://djangochurch.readthedocs.org/en/latest/start/index.html#wysiwyg-text-editing>`_ for more detail on text options here.
+5. **Content** defines the body content for the page. See :ref:`WYSIWYG text editing <wysiwyg-text-editing>` for more detail on text options here.
 6. Advanced option
     1. **Template name** defines the design template used to display the pages content on the public site. Unless you've had additional page templates designed and built by a `development partner <http://www.blanc.ltd.uk/djangochurch/>`_, "Default" will be the only option available to you.
     2. **Published** check-box defines whether the page is publicly visible on the website. Uncheck this instead of deleting it if the page is no longer needed.

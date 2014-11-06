@@ -108,6 +108,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 …and where possible, don't use upper-case letters at all.
 
+.. _wysiwyg-text-editing:
 
 WYSIWYG text editing
 --------------------
