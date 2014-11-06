@@ -28,33 +28,18 @@ Files
     2. Category (as defined by the File categories model above)
     3. The URL of the asset (clicking lets you preview the file)
 4. To edit an existing file, click the file name.
-5. To add a single new file, click "Add single file".
-6. To add multiple new files simultaneously, click "Add multiple files".
+5. To add a new file, click "Add file".
 
-Add a single file
+Add a file
 `````````````````
 
-1. Click Home > Assets > Files > Add single file
+1. Click Home > Assets > Files > Add file
 2. Detail
     1. **Category** defines the category the file as tagged with
     2. **Title** defines the title of the image - for admin use
 3. File
     1. **File** defines the file to be uploaded.
     2. Click "Choose File" and browse to the asset you wish to upload.
-4. When saving and uploading an asset, the page will appear to be inactive for the duration of the upload. Please wait…
-
-Add multiple files
-``````````````````
-
-1. Click Home > Assets > Files > Add multiple files
-2. Detail
-    1. **Category** defines the category the file as tagged with
-    2. **Title** defines the title of the image - for admin use
-    3. Note that when uploading multiple files, the file name is automatically appended to the **Title** to better enable differentiation once uploaded.
-3. File
-    1. **File** defines the file to be uploaded.
-    2. Click "Choose File" and browse to the asset you wish to upload.
-    3. Note that you can multi-select files in this dialogue.
 4. When saving and uploading an asset, the page will appear to be inactive for the duration of the upload. Please wait…
 
 Editing files
