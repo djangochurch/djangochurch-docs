@@ -27,9 +27,9 @@ Add a recurring event
 2. **Title** defines the title of the event. Note that this is the publicly visible title users of the site will see
 3. **Image** is an optional field that lets you define a key image to associate with the event. This is achieved by selecting an image from the Image Assets app through the combo-box.
 4. **Description** defines the descriptive text about the event which is seen when users navigate through to the event's detail page.
-6. **Day of the week** The combo-box defines the kind of breakfast you'd like on that day… kidding. It defines the day of the week the event happens on.
-7. **Frequency** is a fuzzy field designed to give users an indication of how regularly the event happens. "Weekly" or "fortnightly" for example.
-8. **Published** check-box defines whether the event is publicly visible on the website. Uncheck this instead of deleting it if the event is no longer needed.
+5. **Day of the week** The combo-box defines the kind of breakfast you'd like on that day… kidding. It defines the day of the week the event happens on.
+6. **Frequency** is a fuzzy field designed to give users an indication of how regularly the event happens. "Weekly" or "fortnightly" for example.
+7. **Published** check-box defines whether the event is publicly visible on the website. Uncheck this instead of deleting it if the event is no longer needed.
 
 Special events
 --------------

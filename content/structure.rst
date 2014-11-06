@@ -9,15 +9,18 @@ Tip: Buy some post-it notes
 ---------------------------
 
 This is typically how we start to structure a site…
+
 1.	Buy post-it notes. Lots of them. Branded, unbranded, any colour, any shape. Knock yourself out!
 2.	Find a space with an empty wall and a table.
 3.	One sheet at a time, write an area of content you need to contain within your website. Common areas of content for church websites might be…
+
 	1.	Vision
 	2.	Mission
 	3.	Services
 	4.	Staff or Team
 	5.	Contact details
 	6.	*Keep going...*
+
 4.	As you write them, stick the post-its on the wall. It doesn't matter for now what order you put them in, or whether they are structured, just get them on the wall.
 5.	There are new daft ideas here. It's better to capture everything and represent it on the wall, than to dismiss it and forget about it. There'll be plenty of time to trash redundant content areas later.
 6.	At the point where you start running out of ideas, take a step back from the wall and try to get a feel for the bigger picture.

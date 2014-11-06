@@ -35,6 +35,6 @@ There's one caveat here, and that's mobile access. Bandwidth for mobile users is
 Ultimately…
 -----------
 
-**This kind of confusion is a product of a mismatch of a site's target audience. It's the result of assuming the needs and priorities of the target audience, are the same as the needs and priorities of the people commissioning the website.
+This kind of confusion is a product of a mismatch of a site's target audience. It's the result of assuming the needs and priorities of the target audience, are the same as the needs and priorities of the people commissioning the website.
 
-These are just a few of the things you might want to consider when structuring your website's content, but the solution is likely to be specific to you, and will be based as much on the way you feel about the matter as anything else.**
+These are just a few of the things you might want to consider when structuring your website's content, but the solution is likely to be specific to you, and will be based as much on the way you feel about the matter as anything else.

@@ -11,4 +11,3 @@ The following sections have been written with the aim of giving you some help an
     audience
     structure
     pitfalls
-    writing 

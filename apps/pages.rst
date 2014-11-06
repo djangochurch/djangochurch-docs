@@ -8,8 +8,8 @@ Managing page and page structures
 
 1. Click Home > Pages > Pages
 2. Toggle between "Tree" and the traditional "Grid" view of pages by clicking the "- view" button in the top-right of the screen.
-2. The Pages app has only one model, its self called 'Pages'. It differs from many of the other apps, in that the default "Tree view" of the app's contents is functional. The default Django Church build comes with a rough outline of some of the pages any given Church might find valuable. This also has the benefit of giving you a loose structure to play with while you're getting used to the way Pages work.
-3. Each row in the "Tree view" represents a page on your site. Each row (for example **/sunday/ -- This Sunday (edit)** ) will contain the following elements…
+3. The Pages app has only one model, its self called 'Pages'. It differs from many of the other apps, in that the default "Tree view" of the app's contents is functional. The default Django Church build comes with a rough outline of some of the pages any given Church might find valuable. This also has the benefit of giving you a loose structure to play with while you're getting used to the way Pages work.
+4. Each row in the "Tree view" represents a page on your site. Each row (for example **/sunday/ -- This Sunday (edit)** ) will contain the following elements…
     1. **/sunday/** which relates to the pages slug within the site's URL
     2. **Sunday** which relates to the pages title as it will appear in navigation
     3. **(edit)** click to edit the page's content
